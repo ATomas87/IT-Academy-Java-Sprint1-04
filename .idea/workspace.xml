@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f043bd88-3198-4735-8761-16978e345893" name="Changes" comment="Terminado nivel 1">
+    <list default="true" id="f043bd88-3198-4735-8761-16978e345893" name="Changes" comment="Cambiado JUnit 4 por JUnit 5">
+      <change afterPath="$PROJECT_DIR$/src/test/java/n2exercici1/HamcrestTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/n1exercici1/MonthsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/n1exercici1/MonthsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/n1exercici2/CalculoDniTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/n1exercici2/CalculoDniTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/n1exercici3/IndexOutOfBoundsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/n1exercici3/IndexOutOfBoundsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.CalculoDniTest.testCalculoDni">
+  <component name="RunManager" selected="JUnit.HamcrestTest.testHamcrest">
     <configuration name="CalculoDniTest.testCalculoDni" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="IT-Academy-Java-Sprint1-04" />
       <extension name="coverage">
@@ -53,6 +51,38 @@
       <option name="PACKAGE_NAME" value="n1exercici2" />
       <option name="MAIN_CLASS_NAME" value="n1exercici2.CalculoDniTest" />
       <option name="METHOD_NAME" value="testCalculoDni" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HamcrestTest.fellowShipOfTheRingShouldContainer7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IT-Academy-Java-Sprint1-04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="n2exercici1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="n2exercici1" />
+      <option name="MAIN_CLASS_NAME" value="n2exercici1.HamcrestTest" />
+      <option name="METHOD_NAME" value="fellowShipOfTheRingShouldContainer7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HamcrestTest.testHamcrest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IT-Academy-Java-Sprint1-04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="n2exercici1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="n2exercici1" />
+      <option name="MAIN_CLASS_NAME" value="n2exercici1.HamcrestTest" />
+      <option name="METHOD_NAME" value="testHamcrest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,6 +122,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HamcrestTest.testHamcrest" />
+        <item itemvalue="JUnit.HamcrestTest.fellowShipOfTheRingShouldContainer7" />
         <item itemvalue="JUnit.CalculoDniTest.testCalculoDni" />
         <item itemvalue="JUnit.MonthsTest.testMonths" />
         <item itemvalue="JUnit.IndexOutOfBoundsTest.testIndexOutOfBounds" />
@@ -114,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652271794058</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Cambiado JUnit 4 por JUnit 5">
+      <created>1652274498845</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652274498845</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +169,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Terminado nivel 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Terminado nivel 1" />
+    <MESSAGE value="Cambiado JUnit 4 por JUnit 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambiado JUnit 4 por JUnit 5" />
   </component>
 </project>
