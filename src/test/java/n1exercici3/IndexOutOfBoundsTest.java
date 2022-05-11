@@ -1,14 +1,14 @@
 package n1exercici3;
 
-import org.junit.Assert;
-import org.junit.Test;
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
 
 public class IndexOutOfBoundsTest {
 
-    @Test(expected = ArrayIndexOutOfBoundsException.class)
+    @Test
     public void testIndexOutOfBounds() {
         IndexOutOfBounds indexOutOfBounds = new IndexOutOfBounds();
 
-        indexOutOfBounds.getNinthElement();
+        Assertions.assertThrows(ArrayIndexOutOfBoundsException.class, indexOutOfBounds::getNinthElement);
     }
 }

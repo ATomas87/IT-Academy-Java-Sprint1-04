@@ -4,18 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f043bd88-3198-4735-8761-16978e345893" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n1exercici1/Months.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n1exercici2/CalculoDni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/n1exercici3/IndexOutOfBounds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/n1exercici1/MonthsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/n1exercici2/CalculoDniTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/n1exercici3/IndexOutOfBoundsTest.java" afterDir="false" />
+    <list default="true" id="f043bd88-3198-4735-8761-16978e345893" name="Changes" comment="Terminado nivel 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/n1exercici1/MonthsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/n1exercici1/MonthsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/n1exercici2/CalculoDniTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/n1exercici2/CalculoDniTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/n1exercici3/IndexOutOfBoundsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/n1exercici3/IndexOutOfBoundsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.IndexOutOfBoundsTest.testIndexOutOfBounds">
+  <component name="RunManager" selected="JUnit.CalculoDniTest.testCalculoDni">
     <configuration name="CalculoDniTest.testCalculoDni" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="IT-Academy-Java-Sprint1-04" />
       <extension name="coverage">
@@ -98,9 +92,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.IndexOutOfBoundsTest.testIndexOutOfBounds" />
         <item itemvalue="JUnit.CalculoDniTest.testCalculoDni" />
         <item itemvalue="JUnit.MonthsTest.testMonths" />
+        <item itemvalue="JUnit.IndexOutOfBoundsTest.testIndexOutOfBounds" />
       </list>
     </recent_temporary>
   </component>
@@ -113,6 +107,14 @@
       <option name="presentableId" value="Default" />
       <updated>1652268310311</updated>
     </task>
+    <task id="LOCAL-00001" summary="Terminado nivel 1">
+      <created>1652271794058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652271794058</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,5 +127,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Terminado nivel 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terminado nivel 1" />
   </component>
 </project>

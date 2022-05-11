@@ -1,7 +1,8 @@
 package n1exercici1;
 
-import org.junit.Assert;
-import org.junit.Test;
+
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
 
 public class MonthsTest {
 
@@ -9,8 +10,8 @@ public class MonthsTest {
     public void testMonths() {
         Months months = new Months();
 
-        Assert.assertNotNull(months);
-        Assert.assertEquals(months.getMonths().size(), 12);
-        Assert.assertEquals(months.getMonths().get(7), "agosto");
+        Assertions.assertNotNull(months);
+        Assertions.assertEquals(months.getMonths().size(), 12);
+        Assertions.assertEquals(months.getMonths().get(7), "agosto");
     }
 }
