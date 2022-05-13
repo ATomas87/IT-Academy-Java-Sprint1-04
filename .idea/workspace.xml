@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f043bd88-3198-4735-8761-16978e345893" name="Changes" comment="Cambiado JUnit 4 por JUnit 5">
-      <change afterPath="$PROJECT_DIR$/src/test/java/n2exercici1/HamcrestTest.java" afterDir="false" />
+    <list default="true" id="f043bd88-3198-4735-8761-16978e345893" name="Changes" comment="Nivel 2 terminado">
+      <change afterPath="$PROJECT_DIR$/src/main/java/n3exercici2/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/n3exercici4/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/n3exercici6/IndexOutOfBounds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/n3exercici1/AssertJTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/n3exercici2/AssertJTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/n3exercici3/AssertJTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/n3exercici4/AssertJTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/n3exercici5/AssertJTest5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/n3exercici6/AssertJTest6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
@@ -33,88 +41,94 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.HamcrestTest.testHamcrest">
-    <configuration name="CalculoDniTest.testCalculoDni" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="n3exercici6" />
+      <recent name="n3exercici4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AssertJTest7.optionalEmptyTest">
+    <configuration name="AssertJTest3.areArraysEqualsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="IT-Academy-Java-Sprint1-04" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="n1exercici2.*" />
+          <option name="PATTERN" value="n3exercici3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="n1exercici2" />
-      <option name="MAIN_CLASS_NAME" value="n1exercici2.CalculoDniTest" />
-      <option name="METHOD_NAME" value="testCalculoDni" />
+      <option name="PACKAGE_NAME" value="n3exercici3" />
+      <option name="MAIN_CLASS_NAME" value="n3exercici3.AssertJTest3" />
+      <option name="METHOD_NAME" value="areArraysEqualsTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HamcrestTest.fellowShipOfTheRingShouldContainer7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AssertJTest4.arrayListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="IT-Academy-Java-Sprint1-04" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="n2exercici1.*" />
+          <option name="PATTERN" value="n3exercici4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="n2exercici1" />
-      <option name="MAIN_CLASS_NAME" value="n2exercici1.HamcrestTest" />
-      <option name="METHOD_NAME" value="fellowShipOfTheRingShouldContainer7" />
+      <option name="PACKAGE_NAME" value="n3exercici4" />
+      <option name="MAIN_CLASS_NAME" value="n3exercici4.AssertJTest4" />
+      <option name="METHOD_NAME" value="arrayListTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HamcrestTest.testHamcrest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AssertJTest5.mapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="IT-Academy-Java-Sprint1-04" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="n2exercici1.*" />
+          <option name="PATTERN" value="n3exercici5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="n2exercici1" />
-      <option name="MAIN_CLASS_NAME" value="n2exercici1.HamcrestTest" />
-      <option name="METHOD_NAME" value="testHamcrest" />
+      <option name="PACKAGE_NAME" value="n3exercici5" />
+      <option name="MAIN_CLASS_NAME" value="n3exercici5.AssertJTest5" />
+      <option name="METHOD_NAME" value="mapTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IndexOutOfBoundsTest.testIndexOutOfBounds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AssertJTest6.indexOutOfBoundsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="IT-Academy-Java-Sprint1-04" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="n1exercici3.*" />
+          <option name="PATTERN" value="n3exercici6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="n1exercici3" />
-      <option name="MAIN_CLASS_NAME" value="n1exercici3.IndexOutOfBoundsTest" />
-      <option name="METHOD_NAME" value="testIndexOutOfBounds" />
+      <option name="PACKAGE_NAME" value="n3exercici6" />
+      <option name="MAIN_CLASS_NAME" value="n3exercici6.AssertJTest6" />
+      <option name="METHOD_NAME" value="indexOutOfBoundsTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MonthsTest.testMonths" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AssertJTest7.optionalEmptyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="IT-Academy-Java-Sprint1-04" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="n1exercici1.*" />
+          <option name="PATTERN" value="n3exercici7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="n1exercici1" />
-      <option name="MAIN_CLASS_NAME" value="n1exercici1.MonthsTest" />
-      <option name="METHOD_NAME" value="testMonths" />
+      <option name="PACKAGE_NAME" value="n3exercici7" />
+      <option name="MAIN_CLASS_NAME" value="n3exercici7.AssertJTest7" />
+      <option name="METHOD_NAME" value="optionalEmptyTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -122,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.HamcrestTest.testHamcrest" />
-        <item itemvalue="JUnit.HamcrestTest.fellowShipOfTheRingShouldContainer7" />
-        <item itemvalue="JUnit.CalculoDniTest.testCalculoDni" />
-        <item itemvalue="JUnit.MonthsTest.testMonths" />
-        <item itemvalue="JUnit.IndexOutOfBoundsTest.testIndexOutOfBounds" />
+        <item itemvalue="JUnit.AssertJTest7.optionalEmptyTest" />
+        <item itemvalue="JUnit.AssertJTest6.indexOutOfBoundsTest" />
+        <item itemvalue="JUnit.AssertJTest5.mapTest" />
+        <item itemvalue="JUnit.AssertJTest4.arrayListTest" />
+        <item itemvalue="JUnit.AssertJTest3.areArraysEqualsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652274498845</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Nivel 2 terminado">
+      <created>1652276699180</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652276699180</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +191,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Terminado nivel 1" />
     <MESSAGE value="Cambiado JUnit 4 por JUnit 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cambiado JUnit 4 por JUnit 5" />
+    <MESSAGE value="Nivel 2 terminado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nivel 2 terminado" />
   </component>
 </project>
